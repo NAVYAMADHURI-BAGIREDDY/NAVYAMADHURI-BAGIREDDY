@@ -1,4 +1,53 @@
 <h1 align="center">Hi 👋, I'm Navya Madhuri</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Software Engineer</h3>
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
+
+## 👩‍💻 About Me  
+
+- 🎓 Pursuing **Master's in Data Science** at the **University of Houston**  
+- 🌱 Learning & working with **Machine Learning, NLP, Deep Learning, MLOps (MLFlow, DVC), PyTorch, SQL, Tableau, React, Node.js**  
+- 💡 Interested in **Data Science | Analytics | Data Engineering | Software Development**  
+- 🤝 Open to collaborating on **ML/AI, data-driven applications, and web development projects**  
+- 📂 Explore my projects [**here**](https://github.com/NAVYAMADHURI-BAGIREDDY?tab=repositories)  
+- ⚡ Fun fact: **Former Captain of my college volleyball team 🏐**  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/navyamadhuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navyamadhuri" height="30" width="40" /></a>
+<a href="https://kaggle.com/navyamadhuri-bagireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="navyamadhuri-bagireddy" height="30" width="40" /></a>
+<a href="https://instagram.com/_navya_.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navya_.b" height="30" width="40" /></a>
+</p>
+
+---
+
+## ⚒️ Languages & Tools  
+
+### Data & ML  
+Python | R | SQL | Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Seaborn | Tableau | Power BI | Hadoop | Spark  
+
+### Web & Software  
+Java | JavaScript | React.js | Node.js | Flask | Django | Spring | Angular | HTML | CSS | Bootstrap  
+
+### Databases & Cloud  
+MySQL | PostgreSQL | SQLite | Oracle | MS SQL Server | AWS | GCP  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAVYAMADHURI-BAGIREDDY&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVYAMADHURI-BAGIREDDY&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Navya Madhuri</h1>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
 <h2 align="left">About me:</h2>
@@ -10,16 +59,6 @@
 👯 I’m looking to collaborate on **ML/AI/web development projects**
 
 👨‍💻 All of my projects are available  [(HERE)](https://github.com/NAVYAMADHURI-BAGIREDDY?tab=repositories)
-
-💬 Certifications
-- **Associate Google cloud Engineer**(Google)
-- **Python for Machine Learning and Data Science Master Class** (Udemy)
-- **Complete Data Structures and Algorithms** (Udemy)
-- **2024 Web Development BootCamp** (Udemy)
-
-📫 How to reach me **bnavyama@cougarnet.uh.edu**
-
-📄 Know about my experiences  (resume out soon)
 
 ⚡ Fun fact   **Captain of the College volleyball team.**
 
