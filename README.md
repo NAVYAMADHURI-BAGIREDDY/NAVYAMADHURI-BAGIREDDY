@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Navya Madhuri</h1>
-<h3 align="center">Aspiring Data Analyst | Data Scientist | Data Engineer | Software Engineer</h3>
+<h3 align="center">Aspiring Data Engineer | Data Analyst | Data scientist| Software Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
 
 ## 👩‍💻 About Me  
 
 - 🎓 Pursuing **Master's in Data Science** at the **University of Houston**  
-- 💡 Interested in **Data Science | Analytics | Data Engineering | Software Development**  
+- 💡 Interested in **Data Analytics |  Data Engineering | Machine Learning| Software Development**  
 - 🤝 Open to collaborating on **ML/AI, data-driven applications, and web development projects**  
 - 📂 Explore my projects [**here**](https://github.com/NAVYAMADHURI-BAGIREDDY?tab=repositories)  
 - ⚡ Fun fact: **Former Captain of my college volleyball team 🏐**  
